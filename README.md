@@ -14,7 +14,7 @@
 4. Create a different folder and move the contents to that folder
 5. Move the folder to the following location: C:\xampp\htdocs
 6. On phpmyadmin, import the new database and import the tables provided in the file shop_db. The final result should be as follows:
-   <div style="width:60 px ; height:60 px"> ![Screenshot 2024-07-13 000838](https://github.com/user-attachments/assets/74ec9af6-e10d-47ce-98e4-d32307bdefd3) </div>
+   ![Screenshot 2024-07-13 000838](https://github.com/user-attachments/assets/74ec9af6-e10d-47ce-98e4-d32307bdefd3)
 7. Open XAMPP and ensure that the following is done:
   ![Screenshot 2024-07-13 000305](https://github.com/user-attachments/assets/2811ae03-85c7-48f0-a8a5-da6365c81bc2)
 8. Open the browser and run the following command on it: http://localhost/folder_name/home.php
