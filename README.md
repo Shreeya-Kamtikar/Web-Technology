@@ -1,6 +1,6 @@
 # Web-Technology
 
-# This repository contains files for development of a basic E-Commerce Website using HTML, CSS, and JavaScript.
+### This repository contains files for development of a basic E-Commerce Website using HTML, CSS, and JavaScript.
 ![login](https://github.com/user-attachments/assets/b367d28a-e928-4676-9e96-b0ce0117e500)
 ![Home](https://github.com/user-attachments/assets/03c9f601-e915-49bf-8c0c-456fc96c1f14)
 ![About](https://github.com/user-attachments/assets/1bcf7759-8970-4dbb-9126-b24624fbd469)
